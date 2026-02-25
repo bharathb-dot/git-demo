@@ -44,4 +44,4 @@ for(let i=0;i<char.length;i++){
     }
 }
 console.log(count);
-//
+//hello
