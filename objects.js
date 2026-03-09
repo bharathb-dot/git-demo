@@ -80,4 +80,4 @@ let users=[
 {name:"Kiran",age:15}
 ]
 let res=users.filter(p=>p.age>=18).map(l=>l.name);
-console.log(res);
+console.log(res);//
