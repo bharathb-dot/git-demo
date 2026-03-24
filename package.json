@@ -1,0 +1,24 @@
+{
+  "name": "ts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "day10.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bharathb-dot/git-demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/bharathb-dot/git-demo/issues"
+  },
+  "homepage": "https://github.com/bharathb-dot/git-demo#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.58.2"
+  }
+}
